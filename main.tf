@@ -9,8 +9,8 @@ terraform {
     bucket     = "mystatefiles"
     key        = "terraform/state"
     region     = "us-east-2"
-    access_key = "AKIAYO63Y32L5RBAHWE5"
-    secret_key = "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"
+    access_key = "<enter_access_key"
+    secret_key = "<enter_secret_key"
     #   dynamodb_table= "harish"
   }
 }
